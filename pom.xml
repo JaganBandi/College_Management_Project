@@ -62,13 +62,13 @@
     <repository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://192.168.106.156:8081/repository/releases/</url>
+        <url>http://43.202.251.7:8081/repository/releases/</url>
     </repository>
 
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Snapshots</name>
-        <url>http://192.168.106.156:8081/repository/snapshots/</url>
+        <url>http://43.202.251.7:8081/repository/snapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
